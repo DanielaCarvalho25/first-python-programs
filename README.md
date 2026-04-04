@@ -42,9 +42,9 @@ Aqui estão atividades feitas no Google Colab, com foco em aprender o básico de
 - Conversão de Horas: Converte horas para minutos e segundos.
 
  #Tecnologias e Ferramentas
-  *Linguagem:  Python 3
-  *Ambiente: Google Colab
-  *Conceitos aplicados:  Variáveis, operadores aritméticos, entrada/saída de dados e formatação de strings (f-strings).
+  Linguagem:  Python 3
+  Ambiente: Google Colab
+  Conceitos aplicados:  Variáveis, operadores aritméticos, entrada/saída de dados e formatação de strings (f-strings).
 
   O que estou aprendendo:
 - Variáveis  
